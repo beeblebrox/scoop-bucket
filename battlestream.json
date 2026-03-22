@@ -1,0 +1,15 @@
+{
+    "version": "0.14.0-beta",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/beeblebrox/battlestream/releases/download/v0.14.0-beta/battlestream_0.14.0-beta_windows_amd64.zip",
+            "bin": [
+                "battlestream.exe"
+            ],
+            "hash": "d14cbc5e0b4f7da7d7ca15196c3e11ebb0f7df23b7a553486404b0559d63c08b"
+        }
+    },
+    "homepage": "https://github.com/beeblebrox/battlestream",
+    "license": "MIT",
+    "description": "Hearthstone Battlegrounds stat tracker"
+}
