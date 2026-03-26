@@ -1,12 +1,12 @@
 {
-    "version": "0.17.1-beta",
+    "version": "0.17.2-beta",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/beeblebrox/battlestream/releases/download/v0.17.1-beta/battlestream_0.17.1-beta_windows_amd64.zip",
+            "url": "https://github.com/beeblebrox/battlestream/releases/download/v0.17.2-beta/battlestream_0.17.2-beta_windows_amd64.zip",
             "bin": [
                 "battlestream.exe"
             ],
-            "hash": "16f5ab6c536de4b456bce9b4a0ae3f9a148de9a17bde0093c668d8e7fc385c20"
+            "hash": "55487855f52156be874e561659b72aea69ddec4f0742a18c5cbc1de42424de6e"
         }
     },
     "homepage": "https://github.com/beeblebrox/battlestream",
